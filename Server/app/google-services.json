@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "370503769495",
+    "firebase_url": "https://boolddonation-1fb14.firebaseio.com",
+    "project_id": "boolddonation-1fb14",
+    "storage_bucket": "boolddonation-1fb14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370503769495:android:75b05f65ebcce899",
+        "android_client_info": {
+          "package_name": "com.example.kelvin.blooddonation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370503769495-a4gp06eoonga3kno84prmil2eglsqh7u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kelvin.blooddonation",
+            "certificate_hash": "51368c541105d5ab0bb110a00c15870718889847"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzYmT72jhVLAK5piJw0629dAQ7zebRAHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370503769495-pb940crgfkvrcv9iofv1ulde59ufgnge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370503769495:android:628c5eecf060f653",
+        "android_client_info": {
+          "package_name": "com.example.kelvin.messapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370503769495-fdfk2pfcba35tapiti1t59gfb7dccgbh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kelvin.messapp",
+            "certificate_hash": "f3b56d983460bcbb396e99ce4449afb200daff04"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzYmT72jhVLAK5piJw0629dAQ7zebRAHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370503769495-pb940crgfkvrcv9iofv1ulde59ufgnge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370503769495:android:1463b17d700df4c0",
+        "android_client_info": {
+          "package_name": "com.example.kelvin.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370503769495-ru7mpppsdni5l0e9kf6urb49p0iqkn7f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kelvin.myapplication",
+            "certificate_hash": "f3b56d983460bcbb396e99ce4449afb200daff04"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzYmT72jhVLAK5piJw0629dAQ7zebRAHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370503769495-pb940crgfkvrcv9iofv1ulde59ufgnge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370503769495:android:8c3986f5a70af597",
+        "android_client_info": {
+          "package_name": "com.proyek.rahmanjai.eatitserver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370503769495-h1vh7uagschicg5s13p5vic12vski3og.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.proyek.rahmanjai.eatitserver",
+            "certificate_hash": "f3b56d983460bcbb396e99ce4449afb200daff04"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzYmT72jhVLAK5piJw0629dAQ7zebRAHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370503769495-pb940crgfkvrcv9iofv1ulde59ufgnge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
